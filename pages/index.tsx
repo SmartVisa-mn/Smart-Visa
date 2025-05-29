@@ -35,6 +35,7 @@ export default function Home() {
             Documents encrypted and safely stored.
           </p>
           <p>test</p>
+          <p>dahiad test</p>
         </div>
         <div className="bg-white p-8 rounded-lg shadow hover:shadow-lg transition-shadow">
           <h2 className="text-2xl font-semibold mb-3">24/7 туслах</h2>
