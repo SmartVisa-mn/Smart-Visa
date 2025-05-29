@@ -36,11 +36,6 @@ export default function Home() {
           </p>
 
           <p>test</p>
-<<<<<<< HEAD
-=======
-          <p>dahiad test</p>
-          <p>last test</p>
->>>>>>> f869e6e0a9a0c59e3b9151b442bec5a7330c4fdc
         </div>
         <div className="bg-white p-8 rounded-lg shadow hover:shadow-lg transition-shadow">
           <h2 className="text-2xl font-semibold mb-3">24/7 туслах</h2>
