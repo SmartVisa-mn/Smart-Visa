@@ -8,7 +8,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="bg-green-500 text-white shadow-md py-20 px-6 sm:px-12 lg:px-24 rounded-lg text-center max-w-4xl w-full">
         <h1 className="text-4xl sm:text-5xl font-extrabold mb-6">
-          Welcome to SmartVisa.mn
+          Smartvisa-д тавтай морил
         </h1>
         <p className="text-lg sm:text-xl mb-8">
           Your seamless path to a successful visa application. Easy, fast,
