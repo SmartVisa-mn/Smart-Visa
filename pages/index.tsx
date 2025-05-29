@@ -22,19 +22,19 @@ export default function Home() {
       {/* Feature Cards */}
       <section className="mt-16 grid grid-cols-1 md:grid-cols-3 gap-6 max-w-5xl w-full">
         <div className="bg-white p-8 rounded-lg shadow hover:shadow-lg transition-shadow">
-          <h2 className="text-2xl font-semibold mb-3">Fast Processing</h2>
+          <h2 className="text-2xl font-semibold mb-3">Түргэн шуурхай үйлчилгээ</h2>
           <p className="text-gray-600">
             Streamlined steps ensure you get results quickly.
           </p>
         </div>
         <div className="bg-white p-8 rounded-lg shadow hover:shadow-lg transition-shadow">
-          <h2 className="text-2xl font-semibold mb-3">Secure Uploads</h2>
+          <h2 className="text-2xl font-semibold mb-3">Хамгаалалт</h2>
           <p className="text-gray-600">
             Documents encrypted and safely stored.
           </p>
         </div>
         <div className="bg-white p-8 rounded-lg shadow hover:shadow-lg transition-shadow">
-          <h2 className="text-2xl font-semibold mb-3">24/7 Support</h2>
+          <h2 className="text-2xl font-semibold mb-3">24/7 туслах</h2>
           <p className="text-gray-600">
             Our team is here anytime for assistance.
           </p>
