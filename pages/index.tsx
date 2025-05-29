@@ -15,7 +15,7 @@ export default function Home() {
           reliable.
         </p>
         <Link href="/application/step1">
-          <Button size="lg">Get Started</Button>
+          <Button size="lg">EHleh</Button>
         </Link>
       </section>
 
